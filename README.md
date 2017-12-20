@@ -1,0 +1,1 @@
+# AllConcepts-Singleton
